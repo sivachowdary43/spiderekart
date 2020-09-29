@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sivachowdary43/spiderekart.git/static/css/main.56dca798.chunk.css",
+    "main.js": "/sivachowdary43/spiderekart.git/static/js/main.3cded487.chunk.js",
+    "main.js.map": "/sivachowdary43/spiderekart.git/static/js/main.3cded487.chunk.js.map",
+    "runtime-main.js": "/sivachowdary43/spiderekart.git/static/js/runtime-main.80e2becc.js",
+    "runtime-main.js.map": "/sivachowdary43/spiderekart.git/static/js/runtime-main.80e2becc.js.map",
+    "static/css/2.34c0de18.chunk.css": "/sivachowdary43/spiderekart.git/static/css/2.34c0de18.chunk.css",
+    "static/js/2.9bb8e1aa.chunk.js": "/sivachowdary43/spiderekart.git/static/js/2.9bb8e1aa.chunk.js",
+    "static/js/2.9bb8e1aa.chunk.js.map": "/sivachowdary43/spiderekart.git/static/js/2.9bb8e1aa.chunk.js.map",
+    "index.html": "/sivachowdary43/spiderekart.git/index.html",
+    "precache-manifest.dcaaf6c7c664fcb826e25970efca7bf2.js": "/sivachowdary43/spiderekart.git/precache-manifest.dcaaf6c7c664fcb826e25970efca7bf2.js",
+    "service-worker.js": "/sivachowdary43/spiderekart.git/service-worker.js",
+    "static/css/2.34c0de18.chunk.css.map": "/sivachowdary43/spiderekart.git/static/css/2.34c0de18.chunk.css.map",
+    "static/css/main.56dca798.chunk.css.map": "/sivachowdary43/spiderekart.git/static/css/main.56dca798.chunk.css.map",
+    "static/js/2.9bb8e1aa.chunk.js.LICENSE.txt": "/sivachowdary43/spiderekart.git/static/js/2.9bb8e1aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80e2becc.js",
+    "static/css/2.34c0de18.chunk.css",
+    "static/js/2.9bb8e1aa.chunk.js",
+    "static/css/main.56dca798.chunk.css",
+    "static/js/main.3cded487.chunk.js"
+  ]
+}
